@@ -1,0 +1,10 @@
+Link para download de Editor de código fonte 
+
+O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS.
+Ele inclui suporte para depuração, controle Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
+
+**Visual Studio Code**
+https://code.visualstudio.com/
+
+O primeiro passo para que possamos utilizar o Visual Studio Code, é realizar a instalação do mesmo em nosso computador.
+Para baixar a última versão do VS Code, acesse o site oficial do Visual Studio Code, deixei o link para facilitar.
